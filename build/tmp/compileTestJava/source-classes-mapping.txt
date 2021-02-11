@@ -1,0 +1,2 @@
+com/github/Fluorum3/onejava/test.java
+ com.github.Fluorum3.onejava.test
